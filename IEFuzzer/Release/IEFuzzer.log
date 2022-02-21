@@ -1,0 +1,21 @@
+﻿  IEFuzzer.c
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\cwebpage.h(10): warning C4005: '_UNICODE': macro redefinition
+  e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c: note: see previous definition of '_UNICODE'
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(11): error C2061: syntax error: identifier 'ClassName'
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(11): error C2059: syntax error: ';'
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(11): error C2059: syntax error: '['
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(81): warning C4133: 'function': incompatible types - from 'char [13]' to 'LPCWSTR'
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(97): error C2065: 'ClassName': undeclared identifier
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(97): error C2109: subscript requires array or pointer type
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(101): error C2065: 'ClassName': undeclared identifier
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(101): error C2109: subscript requires array or pointer type
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(101): warning C4133: 'function': incompatible types - from 'char [5]' to 'LPCWSTR'
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(101): warning C4047: 'function': 'LPCWSTR' differs in levels of indirection from 'long'
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(101): warning C4024: 'CreateWindowExW': different types for formal and actual parameter 3
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(103): warning C4047: 'function': 'int' differs in levels of indirection from 'HWND'
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(103): warning C4024: 'CreateWindowExW': different types for formal and actual parameter 8
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(103): warning C4133: 'function': incompatible types - from 'HMODULE' to 'HMENU'
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(103): error C2198: 'CreateWindowExW': too few arguments for call
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(106): warning C4133: 'function': incompatible types - from 'char *' to 'const WCHAR *'
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(121): warning C4133: 'function': incompatible types - from 'char [25]' to 'LPCWSTR'
+e:\work\adobe\poc\fullexploit2\iefuzzer\iefuzzer\iefuzzer.c(121): warning C4133: 'function': incompatible types - from 'char [6]' to 'LPCWSTR'
